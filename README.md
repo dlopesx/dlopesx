@@ -1,4 +1,4 @@
-![Banner](banner)
+![Banner](banner.jpg)
 ## Oi, meu nome é Daniela! 👋
 ## Sou estudante de Ciência da Computação e uma grande entusiasta de tecnologia. Pretendo me tornar desenvolvedora de software e atuar com back-end!
 
